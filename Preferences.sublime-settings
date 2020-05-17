@@ -1,0 +1,21 @@
+{
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"material_theme_accent_pink": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_titlebar": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"theme": "Material-Theme-Palenight.sublime-theme"
+
+}
